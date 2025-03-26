@@ -55,11 +55,22 @@ img{
     margin-top: 10px;
 
 }
-
-.ajuntadiv{
-    max-width: 90vw;
+.vaggie{
+    max-width: 200px;
+    height: 160px;
+    border: solid rgb(89, 122, 73);
 }
 
 
+.ajuntadiv{  
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+    gap: 40px;
+}
 
+.texxt{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
 
